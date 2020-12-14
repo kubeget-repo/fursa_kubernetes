@@ -1,5 +1,5 @@
 # **Fursa Kubernetes homework**
-the project inculde two yaml files : 
+The project inculde two yaml files : 
 - apache.yml 
     - pull & install apache image 
     - run service on targer port  80 
@@ -10,10 +10,10 @@ the project inculde two yaml files :
 
 # **How to use**: 
 command line : 
- **kubectl apply -f apache.yml**
- **kubectl apply -f mysql.yml**
+ - **kubectl apply -f apache.yml**
+ - **kubectl apply -f mysql.yml**
 
- or just run this command : 
+or just run this command : 
 
- **kubectl apply -f .** 
+ - **kubectl apply -f .** 
   
